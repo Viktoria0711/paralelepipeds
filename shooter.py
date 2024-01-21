@@ -20,7 +20,7 @@ goal = 10
 life = 3
 
 font.init()
-font1 = font.SysFont("Arial", 80)
+font1 = font.SysFont("Arial", 100)
 font2 = font.SysFont("Arial", 36)
 win = font1.render("YOU WIN", True, (255, 255, 255))
 lose = font1.render("YOU LOSE", True, (255, 255, 255))
